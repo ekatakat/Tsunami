@@ -1,3 +1,4 @@
+!浅水方程式系　外部重力波による津波の再現
 program tsunami
 
 implicit none
